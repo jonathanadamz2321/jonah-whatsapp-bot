@@ -1,0 +1,17 @@
+{
+  "name": "jonah-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Jonah - AI-powered WhatsApp assistant bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "axios": "^1.6.0",
+    "pino": "^8.0.0",
+    "ytdl-core": "^4.11.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.24.0"
+  }
+}
